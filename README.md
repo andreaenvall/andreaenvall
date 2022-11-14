@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @andreaenvall
-- 👀 I’m interested in programming, floorball and obsessed with padel
-- 🌱 I’m currently learning Advanced C#, MVC .NET, golang, javascript, vue.js.
+- 📍 Varberg, Sweden
 
 
 
